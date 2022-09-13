@@ -8,9 +8,9 @@ function App() {
       <header className="App-header">
         <DelicacaoPrincipal className="App-logo" />
         <p>
-          Nuestra página aún no se encuentra disponible
+          Nuestra página se encuentra en mantenimiento
         </p>
-        <p className="mt-2">Por ahora puedes visitarnos en Instagram</p>
+        <p className="mt-2">¡Pero puedes visitarnos en Instagram!</p>
         <div className="">
             <a
               className="App-link"
